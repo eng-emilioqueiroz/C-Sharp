@@ -2,7 +2,7 @@
 using System.Globalization;
 
 namespace FirstProgram {
-    class PrintingMessages {
+    class Program {
         static void Main(string[] args) {
             //declaring variables
             double x = 10.35784;
