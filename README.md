@@ -1,4 +1,4 @@
-[US] Inglês
+[US] English
 
 Welcome to my C# study repository!
 Here you’ll find a collection of code samples, exercises, small projects, and notes that I’m developing throughout my learning journey with the language. The purpose of this space is to document my progress, explore object-oriented programming concepts, experiment with .NET features, and strengthen my knowledge through hands-on practice.
