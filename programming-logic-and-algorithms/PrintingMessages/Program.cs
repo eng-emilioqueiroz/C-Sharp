@@ -18,7 +18,7 @@ namespace FirstProgram {
             Console.WriteLine(x.ToString("F4")); // formatting to 4 decimal places
             Console.WriteLine(x.ToString("F2", CultureInfo.InvariantCulture)); // formatting to 2 decimal places with invariant culture
             Console.WriteLine("The x value is " + x); // concatenation
-            Console.WriteLine($"The x value is {x}"); // concatenation
+            Console.WriteLine($"The x value is {x}"); // interpolation
             Console.WriteLine("The x value is " + x.ToString("F2") + " reais"); // concatenation with formatting
             Console.WriteLine($"The lady called {z} have {y} years and her nickname is {w}"); // interpolation
             Console.ReadLine();
