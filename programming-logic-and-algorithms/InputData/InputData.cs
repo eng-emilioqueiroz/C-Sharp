@@ -1,9 +1,8 @@
 ﻿using System;
+using System.Globalization;
 
 namespace SecondProgram {
-
     class InputData {
-
         static void Main(string[] args) {
             string sentence,x,y,z,s  = "";
             Console.Write("Enter a sentence: ");
@@ -18,7 +17,7 @@ namespace SecondProgram {
             Console.WriteLine($"\nYou entered the colors: {x}, {y} e {z}");
             Console.Write("\nEnter a list of fruits: ");
             s = Console.ReadLine();
-            string[] vet = s.Split(' ');
+            string[] vet = s.Split(' '); // Splitting the input string into an array
             Console.Write("\nYou entered the fruits: ");
             foreach (string fruit in vet) {
                 Console.Write($"{fruit} ");
