@@ -11,7 +11,7 @@ using System.Globalization;
 namespace exercises {
     class Exercise5 {
         static void Main(string[] args) {
-            double grade1, grade2, finalGrade; 
+            double grade1, grade2, finalGrade;
             grade1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             grade2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             finalGrade = grade1 + grade2;
