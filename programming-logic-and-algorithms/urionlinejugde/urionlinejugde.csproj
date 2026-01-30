@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>urionlinejudge.Example1036</StartupObject>
+    <StartupObject>urionlinejudge.Example1037</StartupObject>
   </PropertyGroup>
 
 </Project>
